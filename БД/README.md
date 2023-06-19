@@ -1,7 +1,7 @@
 # **Работы по БД за 2 курс**
 *Круглов Иван Станиславович ИВТ 1.2*
 |Оглавление|
-|---------------|
+|----------|
 | [Лабораторная работа 1](https://github.com/Dirwul/Herzen_University/blob/master/БД/ЛР%201.pdf) |
 | [Лабораторная работа 2](https://github.com/Dirwul/Herzen_University/blob/master/БД/ЛР%202.pdf) |
 | [Лабораторная работа 3](https://github.com/Dirwul/Herzen_University/blob/master/БД/ЛР%203.pdf) |
